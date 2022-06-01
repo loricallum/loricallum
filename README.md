@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently building Real-World dApp's With React, Solidity, and Web3.js & doing my MSc in Computer Science (Software Engineering Specialism)
+- 🌱 DAILY: Building Real-World dApp's With React, Solidity, and Web3.js & doing my MSc in Computer Science (Software Engineering Specialism)
 - 👯 I’m looking to collaborate on building open source WEB 3.0 dAPP's
 - 🤔 I’m looking for help with networking with other Software Developers 
 - 💬 Ask me about working as a Virologist in COVID laboratories during the pandemic 🦸‍♀️
@@ -12,7 +12,7 @@
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JavaScript Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Hmtl Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" with="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" with="50" height="50"/><img 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JavaScript Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Hmtl Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" with="50" height="50"/> 
 
 
 
