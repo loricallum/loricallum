@@ -21,3 +21,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loricallum&theme=radical&layout=compact)](https://github.com/loricallum/github-readme-stats)
 
 ![Lori's GitHub stats](https://github-readme-stats.vercel.app/api?username=loricallum&show_icons=true&theme=radical)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="loricallum" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/loricallum?trk=profile-badge">Lori Callum</a></div>
+              
