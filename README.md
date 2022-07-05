@@ -2,9 +2,9 @@
 
 - 🌱 Working on building Real-World dApp's With React and Solidity 
 - 🤓 Studying MSc in Computer Science (Software Engineering Specialism)
-- 💬 Ask me about working as a Virologist in COVID laboratories during the pandemic 🦸‍♀️
+- 💬 Ask me about my programming skills 🦸‍♀️
 - 📫 How to reach me: lorimcallum@gmail.com
-- ⚡ Fun fact: I am learning Polish & can solve a rubik cube 🥇 
+- ⚡ Fun fact: I am learning Polish  
 
 <hr></hr>
 
