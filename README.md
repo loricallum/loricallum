@@ -3,7 +3,7 @@
 - 🌱 Working on building Real-World dApp's With React and Solidity 
 - 🤓 Studying MSc in Computer Science (Software Engineering Specialism)
 - 💬 Ask me about my programming skills 🦸‍♀️
-- 📫 How to reach me: lorimcallum@gmail.com
+- 📫 How to reach me: https://main-portfolio-blog.vercel.app/ 
 - ⚡ Fun fact: I am learning Polish  
 
 <hr></hr>
