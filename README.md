@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🌱 Working on building Real-World dApp's With React and Solidity 
 - 🤓 Studying MSc in Computer Science (Software Engineering Specialism)
-- 💬 Ask me about my programming skills 🦸‍♀️
+- 💬 Ask me about working as a Virologist during COVID 🦸‍♀️
 - 📫 How to reach me: https://main-portfolio-blog.vercel.app/ 
 - ⚡ Fun fact: I am learning Polish  
+
+![Snake animation](https://github.com/lukemorales/lukemorales/blob/output/github-contribution-grid-snake.svg)
 
 <hr></hr>
 
