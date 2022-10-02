@@ -12,8 +12,6 @@
 
 - I am currently working on an MSc in Computer Science: Career Change from 15 years as a Biophysicist
 
-- 📝 I regularly write articles on [My Blog]([https://main-portfolio-blog.vercel.app/posts]) 
-
 - 💬 Ask me about **React, NextJS, Solidity**
 
 - 📫 How to reach me **lorimcallum@gmail.com**
