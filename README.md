@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lori</h1>
-<h3 align="center">A passionate Software Developer. I love to build beautiful websites with latest tech available😄
+<h3 align="center">A passionate Software Developer. I love to build beautiful websites with the latest tech available.
 </h3>
 
 </br>
