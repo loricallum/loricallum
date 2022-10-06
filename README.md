@@ -1,48 +1,28 @@
-<h1 align="center">Hi 👋, I'm Lori</h1>
-<h3 align="center">A passionate Software Developer. I love to build beautiful websites with the latest tech available.
-</h3>
 
-</br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loricallum&label=Profile%20views&color=0e75b6&style=flat" alt="loricallum" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loricallum" alt="loricallum" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/Sci_Sli" target="blank"><img src="https://img.shields.io/twitter/follow/Sci_Sli?logo=twitter&style=for-the-badge" alt="code_bucks" /></a> </p> -->
+# 💫 About Me:
+🤓 I am currently working on an MSc in Computer Science<br><br>💬 Ask me about Python,  React, NextJS, and Solidity<br><br>🦠 Quick Fact: I was a Virologist for 15 years<br><br>📫 How to reach me lorimcallum@gmail.com <br><br>
 
 
-- I am currently working on an MSc in Computer Science: Career Change from 15 years as a Biophysicist
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loricallum) 
 
-- 💬 Ask me about **React, NextJS, Solidity**
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=loricallum&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=loricallum&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=loricallum&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 📫 How to reach me **lorimcallum@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=loricallum&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-</br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loricallum&show_icons=true&locale=en" alt="loricallum" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebucks27&" alt="codebucks27" /></p> -->
-</br>
-
+---
+[![](https://visitcount.itsvg.in/api?id=loricallum&icon=0&color=7)](https://visitcount.itsvg.in)
 
 
 
 ![Snake animation](https://github.com/lukemorales/lukemorales/blob/output/github-contribution-grid-snake.svg)
 
-<hr></hr>
-
-🧰 Toolbox
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="JavaScript Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="Hmtl Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" with="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" alt="solidity Logo" with="50" height="50"/>
-
-
----
-<g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> My GitHub Statistics:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loricallum&theme=radical&layout=compact)](https://github.com/loricallum/github-readme-stats)
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="loricallum" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://uk.linkedin.com/in/loricallum?trk=profile-badge">Check out my Linkedin Page</a></div>
-              
