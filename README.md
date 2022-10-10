@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🤓 I am currently working on an MSc in Computer Science<br><br>💬 Ask me about Python,  React, NextJS, and Solidity<br><br>🦠 Quick Fact: I was a Virologist for 15 years<br><br>📫 How to reach me lorimcallum@gmail.com <br><br>
+🤓 I am currently working on an MSc in Computer Science<br><br>💬 Ask me about React <br><br>🦠 Quick Fact: I was a Virologist for 15 years<br><br>📫 How to reach me lorimcallum@gmail.com <br><br>
 
 
 ## 🌐 Socials:
