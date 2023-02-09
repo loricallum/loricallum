@@ -1,8 +1,4 @@
 
-# 💫 About Me:
-🤓 I am currently working on an MSc in Computer Science<br><br>💬 Ask me about React <br><br>🦠 Quick Fact: I was a Virologist for 15 years<br><br>📫 How to reach me lorimcallum@gmail.com <br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loricallum) 
 
