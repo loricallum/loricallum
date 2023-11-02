@@ -19,6 +19,3 @@
 [![](https://visitcount.itsvg.in/api?id=loricallum&icon=0&color=7)](https://visitcount.itsvg.in)
 
 
-
-![Snake animation](https://github.com/lukemorales/lukemorales/blob/output/github-contribution-grid-snake.svg)
-
